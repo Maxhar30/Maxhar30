@@ -9,7 +9,8 @@ Hey There, I am Mazhar Hussain. I am a Web Developer, Programmer and Pentester a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxhar30&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Maxhar30's GitHub Stats" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=mianjawadahmad&color=blue&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=maxhar30&color=blue&label=Profile+Views)
 [![Twitter: Maxhar30](https://img.shields.io/twitter/follow/Maxhr30?style=social)](https://twitter.com/Maxhr30)
 [![Linkedin: Maxhar30](https://img.shields.io/badge/-Maxhar30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhar30/)](https://www.linkedin.com/in/maxhar30/)
 [![GitHub Maxhar30](https://img.shields.io/github/followers/Maxhar30?label=follow&style=social)](https://github.com/Maxhar30)
+https://img.shields.io/badge/Orbailix-Where%20Securiy%20Meets%20Solution-blue
