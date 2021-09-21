@@ -10,6 +10,6 @@ Hey There, I am Mazhar Hussain. I am a Web Developer, Programmer and Pentester a
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mianjawadahmad&color=blue&label=Profile+Views)
-[![Twitter: Maxhar30](https://img.shields.io/twitter/follow/Maxhr30?style=social)](https://twitter.com/Maxhr30)
+[![Twitter: Maxhar30](https://img.shields.io/twitter/follow/ImranKhanPTI?style=social)](https://twitter.com/Maxhr30)
 [![Linkedin: Maxhar30](https://img.shields.io/badge/-Maxhar30-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxhar30/)](https://www.linkedin.com/in/maxhar30/)
 [![GitHub Maxhar30](https://img.shields.io/github/followers/Maxhar30?label=follow&style=social)](https://github.com/Maxhar30)
